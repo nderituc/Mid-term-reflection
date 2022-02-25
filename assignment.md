@@ -37,6 +37,7 @@ I have learnt how to-
 * Read data using read_csv function.
 * create data pipes.
 * Do data summaries in addition to visualization.
+* Combine data from various sources.
 
 
 Course objectives achieved
@@ -48,4 +49,4 @@ Course objectives not achieved yet
 * How write R programs for simulations from probability models and randomization-based experiments.
 * How to use source documentation and other resources to troubleshoot and extend R programs.Not so sure about this but i can extend R programs using source documentation.
 
-Generally i feel am at a good position in this class.I have completed activities 1 to 8,though i have some few questions pending to complete.One challenge i have is that i haven't been able to do extra work apart from the activities and preparations we do in class,because of that i feel i deserve a B.I hope to do more before the semister ends and also do my best in the project. 
+Generally i feel am at a good position in this class.I have completed activities 1 to 8,though i have some few  questions pending on activity 5 and 8,i will complete.One challenge i have is that i haven't been able to do extra work apart from the activities and preparations we do in class,because of that i feel i deserve a B.I hope to do more before the semister ends and also do my best in the project. 
